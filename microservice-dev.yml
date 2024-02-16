@@ -1,1 +1,2 @@
-myvalue=ok9
+myvalue:
+  value: hola2
